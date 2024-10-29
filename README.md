@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Atreya45/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0576-out-of-boundary-paths](https://github.com/Atreya45/Leetcode/tree/master/0576-out-of-boundary-paths) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Atreya45/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1332-count-vowels-permutation](https://github.com/Atreya45/Leetcode/tree/master/1332-count-vowels-permutation) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Atreya45/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Atreya45/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
