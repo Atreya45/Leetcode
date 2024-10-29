@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0576-out-of-boundary-paths](https://github.com/Atreya45/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Atreya45/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
