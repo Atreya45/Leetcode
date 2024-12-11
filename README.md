@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Atreya45/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Atreya45/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Atreya45/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atreya45/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Atreya45/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atreya45/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Atreya45/Leetcode/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Atreya45/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atreya45/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atreya45/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Atreya45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atreya45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
