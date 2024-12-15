@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Atreya45/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Atreya45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Atreya45/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/Atreya45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/Atreya45/Leetcode/tree/master/1972-rotating-the-box) |
 | [2164-two-best-non-overlapping-events](https://github.com/Atreya45/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Atreya45/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Atreya45/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/Atreya45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Atreya45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Atreya45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## String
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Atreya45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1917-maximum-average-pass-ratio](https://github.com/Atreya45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Atreya45/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Atreya45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Atreya45/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
