@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atreya45/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Atreya45/Leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Atreya45/Leetcode/tree/master/0274-h-index) |
+| [0494-target-sum](https://github.com/Atreya45/Leetcode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Atreya45/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Atreya45/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Atreya45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Atreya45/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/Atreya45/Leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Atreya45/Leetcode/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Atreya45/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Atreya45/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1332-count-vowels-permutation](https://github.com/Atreya45/Leetcode/tree/master/1332-count-vowels-permutation) |
@@ -350,4 +352,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Atreya45/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Atreya45/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
