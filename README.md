@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Atreya45/Leetcode/tree/master/0036-valid-sudoku) |
 | [0952-word-subsets](https://github.com/Atreya45/Leetcode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Atreya45/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/Atreya45/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Atreya45/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atreya45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Atreya45/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Atreya45/Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Atreya45/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Atreya45/Leetcode/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/Atreya45/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Atreya45/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Atreya45/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Atreya45/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Atreya45/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Atreya45/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Atreya45/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Atreya45/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Atreya45/Leetcode/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/Atreya45/Leetcode/tree/master/1160-letter-tile-possibilities) |
 ## Trie
 |  |
 | ------- |
