@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/Atreya45/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Atreya45/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Atreya45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Atreya45/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Atreya45/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Atreya45/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Atreya45/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Atreya45/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Atreya45/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Atreya45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Atreya45/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Atreya45/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Atreya45/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Atreya45/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Atreya45/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1806-count-of-matches-in-tournament](https://github.com/Atreya45/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2448-count-number-of-bad-pairs](https://github.com/Atreya45/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Atreya45/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2716-prime-subtraction-operation](https://github.com/Atreya45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Atreya45/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
@@ -427,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1806-count-of-matches-in-tournament](https://github.com/Atreya45/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Atreya45/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Atreya45/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Atreya45/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Atreya45/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Atreya45/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Atreya45/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
