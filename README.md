@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Atreya45/Leetcode/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Atreya45/Leetcode/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Atreya45/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Atreya45/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Atreya45/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Counting Sort
 |  |
