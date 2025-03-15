@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Atreya45/Leetcode/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Atreya45/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Atreya45/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1806-count-of-matches-in-tournament](https://github.com/Atreya45/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2448-count-number-of-bad-pairs](https://github.com/Atreya45/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Atreya45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Atreya45/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Atreya45/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Atreya45/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Atreya45/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Atreya45/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
