@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Atreya45/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0132-palindrome-partitioning-ii](https://github.com/Atreya45/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Atreya45/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Atreya45/Leetcode/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Atreya45/Leetcode/tree/master/0576-out-of-boundary-paths) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Atreya45/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0132-palindrome-partitioning-ii](https://github.com/Atreya45/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Atreya45/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Atreya45/Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Atreya45/Leetcode/tree/master/0812-rotate-string) |
