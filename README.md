@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atreya45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Atreya45/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1489-pizza-with-3n-slices](https://github.com/Atreya45/Leetcode/tree/master/1489-pizza-with-3n-slices) |
+| [1503-reducing-dishes](https://github.com/Atreya45/Leetcode/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/Atreya45/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Atreya45/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Atreya45/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Atreya45/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1332-count-vowels-permutation](https://github.com/Atreya45/Leetcode/tree/master/1332-count-vowels-permutation) |
 | [1489-pizza-with-3n-slices](https://github.com/Atreya45/Leetcode/tree/master/1489-pizza-with-3n-slices) |
+| [1503-reducing-dishes](https://github.com/Atreya45/Leetcode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Atreya45/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Atreya45/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/Atreya45/Leetcode/tree/master/1748-best-team-with-no-conflicts) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/Atreya45/Leetcode/tree/master/0274-h-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Atreya45/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atreya45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1503-reducing-dishes](https://github.com/Atreya45/Leetcode/tree/master/1503-reducing-dishes) |
 | [1748-best-team-with-no-conflicts](https://github.com/Atreya45/Leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Atreya45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/Atreya45/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Atreya45/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1489-pizza-with-3n-slices](https://github.com/Atreya45/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1502-construct-k-palindrome-strings](https://github.com/Atreya45/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1503-reducing-dishes](https://github.com/Atreya45/Leetcode/tree/master/1503-reducing-dishes) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Atreya45/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Atreya45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Atreya45/Leetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
