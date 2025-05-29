@@ -1,6 +1,3 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     int rec(int n, int i, int c, vector<vector<int>>& dp) {
