@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atreya45/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Atreya45/Leetcode/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/Atreya45/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0132-palindrome-partitioning-ii](https://github.com/Atreya45/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Atreya45/Leetcode/tree/master/0044-wildcard-matching) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Atreya45/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1489-pizza-with-3n-slices](https://github.com/Atreya45/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1502-construct-k-palindrome-strings](https://github.com/Atreya45/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Atreya45/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Atreya45/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Atreya45/Leetcode/tree/master/0044-wildcard-matching) |
 | [0132-palindrome-partitioning-ii](https://github.com/Atreya45/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Atreya45/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Atreya45/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Atreya45/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Atreya45/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Atreya45/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Counting Sort
