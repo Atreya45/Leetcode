@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1806-count-of-matches-in-tournament](https://github.com/Atreya45/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2448-count-number-of-bad-pairs](https://github.com/Atreya45/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Atreya45/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Atreya45/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Atreya45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3321-type-of-triangle](https://github.com/Atreya45/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Atreya45/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/Atreya45/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Atreya45/Leetcode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Atreya45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Atreya45/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Atreya45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Atreya45/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
