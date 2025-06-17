@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/Atreya45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3321-type-of-triangle](https://github.com/Atreya45/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Atreya45/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Atreya45/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -633,4 +634,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Atreya45/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Atreya45/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
