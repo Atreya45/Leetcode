@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Atreya45/Leetcode/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/Atreya45/Leetcode/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/Atreya45/Leetcode/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/Atreya45/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Atreya45/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Atreya45/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Atreya45/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Atreya45/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Atreya45/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Atreya45/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Atreya45/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Atreya45/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -594,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Atreya45/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Atreya45/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Atreya45/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Atreya45/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Atreya45/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Atreya45/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Atreya45/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -687,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Atreya45/Leetcode/tree/master/0148-sort-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Atreya45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Enumeration
 |  |
@@ -702,4 +706,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Atreya45/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Atreya45/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Atreya45/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
