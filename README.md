@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Atreya45/Leetcode/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/Atreya45/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atreya45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Atreya45/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Atreya45/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Atreya45/Leetcode/tree/master/0392-is-subsequence) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/Atreya45/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atreya45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Atreya45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Atreya45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Atreya45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Atreya45/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/Atreya45/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atreya45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Atreya45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Atreya45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Atreya45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -571,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Atreya45/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Atreya45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/Atreya45/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Atreya45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Atreya45/Leetcode/tree/master/0820-find-eventual-safe-states) |
