@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/Atreya45/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/Atreya45/Leetcode/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/Atreya45/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Atreya45/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Atreya45/Leetcode/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Atreya45/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Atreya45/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Atreya45/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0392-is-subsequence](https://github.com/Atreya45/Leetcode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Atreya45/Leetcode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/Atreya45/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Atreya45/Leetcode/tree/master/0952-word-subsets) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Atreya45/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Atreya45/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Atreya45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/Atreya45/Leetcode/tree/master/0721-accounts-merge) |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Atreya45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Atreya45/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Depth-First Search
@@ -598,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atreya45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0332-reconstruct-itinerary](https://github.com/Atreya45/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Atreya45/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Atreya45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/Atreya45/Leetcode/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/Atreya45/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -751,4 +756,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Atreya45/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
