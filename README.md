@@ -772,4 +772,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Atreya45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0886-possible-bipartition](https://github.com/Atreya45/Leetcode/tree/master/0886-possible-bipartition) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Atreya45/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
