@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/Atreya45/Leetcode/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/Atreya45/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Atreya45/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Atreya45/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atreya45/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Atreya45/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Atreya45/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -790,12 +791,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Atreya45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Atreya45/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Atreya45/Leetcode/tree/master/0886-possible-bipartition) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Atreya45/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Atreya45/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Atreya45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0886-possible-bipartition](https://github.com/Atreya45/Leetcode/tree/master/0886-possible-bipartition) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Atreya45/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Database
 |  |
 | ------- |
@@ -803,4 +806,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0178-rank-scores](https://github.com/Atreya45/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Atreya45/Leetcode/tree/master/0180-consecutive-numbers) |
 | [1934-confirmation-rate](https://github.com/Atreya45/Leetcode/tree/master/1934-confirmation-rate) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Atreya45/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
